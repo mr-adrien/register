@@ -1,0 +1,11 @@
+{
+  "description": "adrien.is-a.dev",
+  "repo": "https://github.com/mr-adrien/mr-adrien.github.io",
+  "owner": {
+    "username": "mr-adrien",
+    "email": "adrienansari@gmail.com"
+  },
+  "record": {
+    "CNAME": "mr-adrien.github.io"
+  }
+}
